@@ -141,7 +141,7 @@ Wireless controller system for robotic-arm control using ESP32 and NRF24L01 comm
 
 `ESP32` `NRF24L01` `PCA9685` `Joystick` `Servo Control`
 
-🔗 **[View Project →](YOUR_REPOSITORY_LINK)**
+🔗 **[View Project →](https://www.linkedin.com/in/yashsachinmane/details/projects/)**
 
 ---
 
@@ -151,7 +151,7 @@ Wireless controller system for robotic-arm control using ESP32 and NRF24L01 comm
 
 Microcontroller-based temperature control system designed for controlled heating with temperature monitoring, automatic regulation, user-defined thresholds and safety mechanisms.
 
-🔗 **[View Project →](YOUR_REPOSITORY_LINK)**
+🔗 **[View Project →](https://www.linkedin.com/in/yashsachinmane/details/projects/)**
 
 ---
 
@@ -159,7 +159,7 @@ Microcontroller-based temperature control system designed for controlled heating
 
 Sensor-based system developed for automated IV fluid level monitoring, alarm functionality and safety-focused control.
 
-🔗 **[View Project →](YOUR_REPOSITORY_LINK)**
+🔗 **[View Project →](https://www.linkedin.com/in/yashsachinmane/details/projects/)**
 
 ---
 
