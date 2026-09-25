@@ -93,7 +93,7 @@ IoT-based system designed to detect standby/phantom power consumption.
 * IoT monitoring dashboard
 * Phantom/standby load detection
 
-🔗 **[View Project →](YOUR_REPOSITORY_LINK)**
+🔗 **[View Project →](https://github.com/808017/Intelligent-Phantom-Load-Detector)**
 
 ---
 
