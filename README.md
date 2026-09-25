@@ -52,7 +52,7 @@ Applications
 
 ### 💻 Programming
 
-`Embedded C` `C` `C++`
+`Embedded C` `C`
 
 ### 🔌 Microcontrollers
 
