@@ -127,7 +127,7 @@ Web Dashboard
 * Humidity
 * Atmospheric Pressure
 
-🔗 **[View Project →](YOUR_REPOSITORY_LINK)**
+🔗 **[View Project →](https://github.com/808017/ESP32-BME280-AWS-IoT-Monitoring)**
 
 ---
 
